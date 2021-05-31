@@ -32,6 +32,7 @@ HOST-SUFFIX,10010.cn,China
 HOST-SUFFIX,10010.com,China
 HOST-SUFFIX,10010.com.cn,China
 HOST-SUFFIX,10010.net,China
+HOST-SUFFIX,10029.com,China
 HOST-SUFFIX,10035.com.cn,China
 HOST-SUFFIX,10086.cn,China
 HOST-SUFFIX,115.com,China
@@ -106,6 +107,8 @@ HOST-SUFFIX,21cnimg.com,China
 HOST-SUFFIX,21cnsales.com,China
 HOST-SUFFIX,21cntx.com,China
 HOST-SUFFIX,2333333333333.com,China
+HOST-SUFFIX,2345.com,China
+HOST-SUFFIX,2345cdn.net,China
 HOST-SUFFIX,25pp.com,China
 HOST-SUFFIX,2isbbess.cn,China
 HOST-SUFFIX,3.cn,China
@@ -251,6 +254,7 @@ HOST-SUFFIX,4399youxi.com,China
 HOST-SUFFIX,4399yyy.com,China
 HOST-SUFFIX,4848360.cn,China
 HOST-SUFFIX,4848360.com,China
+HOST-SUFFIX,49644913.com,China
 HOST-SUFFIX,4sender.com,China
 HOST-SUFFIX,4sender.net,China
 HOST-SUFFIX,5054399.com,China
@@ -265,6 +269,7 @@ HOST-SUFFIX,51newsapp.com,China
 HOST-SUFFIX,51xiancheng.com,China
 HOST-SUFFIX,51y5.com,China
 HOST-SUFFIX,51y5.net,China
+HOST-SUFFIX,51yangsheng.com,China
 HOST-SUFFIX,51ym.me,China
 HOST-SUFFIX,52mtkvideo.cn,China
 HOST-SUFFIX,5566ua.com,China
@@ -288,6 +293,7 @@ HOST-SUFFIX,58wangpan.com,China
 HOST-SUFFIX,58xueche.com,China
 HOST-SUFFIX,5945i.com,China
 HOST-SUFFIX,6360.com,China
+HOST-SUFFIX,6463.com,China
 HOST-SUFFIX,6655.com,China
 HOST-SUFFIX,666kuaishou.com,China
 HOST-SUFFIX,666kuaishou.net,China
@@ -750,6 +756,7 @@ HOST-SUFFIX,booking.com,China
 HOST-SUFFIX,bootcdn.net,China
 HOST-SUFFIX,bootcss.com,China
 HOST-SUFFIX,boxiaole.com,China
+HOST-SUFFIX,bq233.com,China
 HOST-SUFFIX,bqtalk.com,China
 HOST-SUFFIX,brmnq.com,China
 HOST-SUFFIX,broadcasthe.net,China
@@ -836,6 +843,7 @@ HOST-SUFFIX,cctvpro.com.cn,China
 HOST-SUFFIX,ccx4e.cn,China
 HOST-SUFFIX,cdn-go.cn,China
 HOST-SUFFIX,cdn.zampdsp.com,China
+HOST-SUFFIX,cdn913.com,China
 HOST-SUFFIX,cdndns1.com,China
 HOST-SUFFIX,cdndns2.cn,China
 HOST-SUFFIX,cdndns2.com,China
@@ -1175,6 +1183,7 @@ HOST-SUFFIX,debiq.cn,China
 HOST-SUFFIX,devui.design,China
 HOST-SUFFIX,dfcfw.com,China
 HOST-SUFFIX,dfig0.com,China
+HOST-SUFFIX,dftoutiao.com,China
 HOST-SUFFIX,dgk2n.com,China
 HOST-SUFFIX,dgno3.cn,China
 HOST-SUFFIX,dhrest.com,China
@@ -1378,6 +1387,7 @@ HOST-SUFFIX,fe-static.huami.com,China
 HOST-SUFFIX,feedsp.com,China
 HOST-SUFFIX,feiliao.com,China
 HOST-SUFFIX,feng.com,China
+HOST-SUFFIX,fengcx.com,China
 HOST-SUFFIX,fengedu.com,China
 HOST-SUFFIX,fengimg.com,China
 HOST-SUFFIX,fengkeji.com,China
@@ -3183,6 +3193,7 @@ HOST-SUFFIX,toutiaoribao.net,China
 HOST-SUFFIX,toutiaowap.cn,China
 HOST-SUFFIX,toutiaowap.com,China
 HOST-SUFFIX,toutiaowap.net,China
+HOST-SUFFIX,toutiaoyule.com,China
 HOST-SUFFIX,tqapp.cn,China
 HOST-SUFFIX,tqapp.com,China
 HOST-SUFFIX,tqiangg.cn,China
@@ -3208,6 +3219,7 @@ HOST-SUFFIX,ttplayer.com,China
 HOST-SUFFIX,ttpod.com,China
 HOST-SUFFIX,tu54o7863tbf6.com,China
 HOST-SUFFIX,tudou.com,China
+HOST-SUFFIX,tudouxy01.com,China
 HOST-SUFFIX,tuer123.com,China
 HOST-SUFFIX,tv.sohu,China
 HOST-SUFFIX,tvcc.cn,China
@@ -3483,7 +3495,6 @@ HOST-SUFFIX,xgo.com.cn,China
 HOST-SUFFIX,xiachufang.com,China
 HOST-SUFFIX,xiami.com,China
 HOST-SUFFIX,xiami.net,China
-HOST-SUFFIX,10029.com,China
 HOST-SUFFIX,xianfae.com,China
 HOST-SUFFIX,xianjiqun.com,China
 HOST-SUFFIX,xianousiqi.com,China
@@ -3908,9 +3919,9 @@ IP-CIDR,59.111.181.60/32,China
 IP-CIDR,59.111.21.14/31,China
 USER-AGENT,%E4%BC%98%E9%85%B7*,China
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,China
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,China
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,China
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,China
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,China
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,China
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,China
 USER-AGENT,*bili*,China
 USER-AGENT,AcFun*,China
@@ -3919,8 +3930,8 @@ USER-AGENT,MGTV*,China
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,China
 USER-AGENT,MOO*,China
 USER-AGENT,MiguVideo*,China
-USER-AGENT,NeteaseMusic*,China
 USER-AGENT,NeteaseMusic**,China
+USER-AGENT,NeteaseMusic*,China
 USER-AGENT,PPStream*,China
 USER-AGENT,PayPal*,China
 USER-AGENT,QIYI*,China
