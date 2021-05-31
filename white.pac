@@ -3971,7 +3971,7 @@ var RULES = [
         ".xi666.com",
         ".xiachufang.com",
         ".xiami.com",
-	    	".10029.com",
+	".10029.com",
         ".xiami.net",
         ".xianfae.com",
         ".xianjiqun.com",
