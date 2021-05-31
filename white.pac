@@ -2665,7 +2665,6 @@ var RULES = [
         ".qzoneapp.com",
         ".r9t1.com",
         ".rails.cn",
-        ".rakuten.co.jp",
         ".ranwen.com",
         ".rat3c.com",
         ".ratingtoken.com.cn",
