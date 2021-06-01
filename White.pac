@@ -2507,7 +2507,6 @@ var RULES = [
         ".linglonglife.com",
         ".linkedin.com",
         ".linkeye.net",
-        ".live.com",
         ".livechina.cn",
         ".livechina.com",
         ".livehwc3.cn",
