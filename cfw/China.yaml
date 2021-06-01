@@ -4,7 +4,6 @@ payload:
   - DOMAIN,apm3.music.163.com
   - DOMAIN,aqqmusic.tc.qq.com
   - DOMAIN,download.jetbrains.com
-  - DOMAIN,download.microsoft.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,interface.music.163.com
   - DOMAIN,interface3.music.163.com
@@ -14,7 +13,6 @@ payload:
   - DOMAIN,moo.qq.com
   - DOMAIN,msgstatic.douyucdn.cn
   - DOMAIN,netease.ugcvideoss.ourdvs.com
-  - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,netease
@@ -3271,7 +3269,6 @@ payload:
   - DOMAIN-SUFFIX,unimip.cn
   - DOMAIN-SUFFIX,uning.com
   - DOMAIN-SUFFIX,uniny.com
-  - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
   - DOMAIN-SUFFIX,upqzfile.com
