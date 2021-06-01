@@ -2731,7 +2731,6 @@ var RULES = [
         ".msg.video.qiyi.com",
         ".msg2.video.qiyi.com",
         ".msgstatic.douyucdn.cn",
-        ".msn.com",
         ".msstatic.com",
         ".mtime.com",
         ".mting.info",
