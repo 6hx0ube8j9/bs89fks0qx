@@ -3,7 +3,6 @@ DOMAIN,apm.music.163.com
 DOMAIN,apm3.music.163.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,download.jetbrains.com
-DOMAIN,download.microsoft.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,interface.music.163.com
 DOMAIN,interface3.music.163.com
@@ -13,9 +12,7 @@ DOMAIN,mam.netease.com
 DOMAIN,moo.qq.com
 DOMAIN,msgstatic.douyucdn.cn
 DOMAIN,netease.ugcvideoss.ourdvs.com
-DOMAIN,ntservicepack.microsoft.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,wustat.windows.com
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,qiyi
@@ -3271,7 +3268,6 @@ DOMAIN-SUFFIX,unicompayment.org
 DOMAIN-SUFFIX,unimip.cn
 DOMAIN-SUFFIX,uning.com
 DOMAIN-SUFFIX,uniny.com
-DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,upqzfile.com
@@ -3408,8 +3404,6 @@ DOMAIN-SUFFIX,wifisdk.net
 DOMAIN-SUFFIX,wifivpn.net
 DOMAIN-SUFFIX,win7china.com
 DOMAIN-SUFFIX,win8china.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,wingsmobiletek.cn
 DOMAIN-SUFFIX,wirlesshare.com
 DOMAIN-SUFFIX,wisefx.cn
