@@ -3,7 +3,6 @@ HOST,apm.music.163.com,China
 HOST,apm3.music.163.com,China
 HOST,aqqmusic.tc.qq.com,China
 HOST,download.jetbrains.com,China
-HOST,download.microsoft.com,China
 HOST,images-cn.ssl-images-amazon.com,China
 HOST,interface.music.163.com,China
 HOST,interface3.music.163.com,China
@@ -13,9 +12,7 @@ HOST,mam.netease.com,China
 HOST,moo.qq.com,China
 HOST,msgstatic.douyucdn.cn,China
 HOST,netease.ugcvideoss.ourdvs.com,China
-HOST,ntservicepack.microsoft.com,China
 HOST,sms.imagetasks.com,China
-HOST,wustat.windows.com,China
 HOST-KEYWORD,bilibili,China
 HOST-KEYWORD,netease,China
 HOST-KEYWORD,qiyi,China
@@ -3271,7 +3268,6 @@ HOST-SUFFIX,unicompayment.org,China
 HOST-SUFFIX,unimip.cn,China
 HOST-SUFFIX,uning.com,China
 HOST-SUFFIX,uniny.com,China
-HOST-SUFFIX,update.microsoft.com,China
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,China
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,China
 HOST-SUFFIX,upqzfile.com,China
@@ -3408,8 +3404,6 @@ HOST-SUFFIX,wifisdk.net,China
 HOST-SUFFIX,wifivpn.net,China
 HOST-SUFFIX,win7china.com,China
 HOST-SUFFIX,win8china.com,China
-HOST-SUFFIX,windowsupdate.com,China
-HOST-SUFFIX,windowsupdate.microsoft.com,China
 HOST-SUFFIX,wingsmobiletek.cn,China
 HOST-SUFFIX,wirlesshare.com,China
 HOST-SUFFIX,wisefx.cn,China
