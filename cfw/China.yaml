@@ -16,7 +16,6 @@ payload:
   - DOMAIN,netease.ugcvideoss.ourdvs.com
   - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,sms.imagetasks.com
-  - DOMAIN,wustat.windows.com
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,netease
   - DOMAIN-KEYWORD,qiyi
@@ -3409,8 +3408,6 @@ payload:
   - DOMAIN-SUFFIX,wifivpn.net
   - DOMAIN-SUFFIX,win7china.com
   - DOMAIN-SUFFIX,win8china.com
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,wingsmobiletek.cn
   - DOMAIN-SUFFIX,wirlesshare.com
   - DOMAIN-SUFFIX,wisefx.cn
