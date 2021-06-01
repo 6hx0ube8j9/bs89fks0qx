@@ -2648,7 +2648,6 @@ var RULES = [
         ".micode.com.cn",
         ".micode.net",
         ".micro-game-client.com",
-        ".microsoft.com",
         ".miercn.com",
         ".mifile.cn",
         ".migu.cn",
