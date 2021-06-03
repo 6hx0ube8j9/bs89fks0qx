@@ -4375,6 +4375,7 @@ var RULES = [
         ".zybang.com",
         ".zygbdszt.net.cn",
         ".mmstat.com",
+        ".pptvyun.com",    
     ]
 ];
 
