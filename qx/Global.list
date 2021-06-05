@@ -66,8 +66,6 @@ HOST,s3-ap-southeast-1.amazonaws.com,Global
 HOST,sentry.lbry.tech,Global
 HOST,shopify-hubbox.s3.amazonaws.com,Global
 HOST,ssl-lvlt.cdn.ea.com,Global
-HOST,sub.exfos.net,Global
-HOST,suc.exf.best,Global
 HOST,thumbnails.lbry.com,Global
 HOST,upos-bstar-mirrorakam.akamaized.net,Global
 HOST,vod-dash-uk-live.akamaized.net,Global
@@ -97,6 +95,8 @@ HOST-KEYWORD,steamstore,Global
 HOST-KEYWORD,steamuserimages,Global
 HOST-KEYWORD,uk-live,Global
 HOST-KEYWORD,voddazn,Global
+HOST-SUFFIX,exfos.net,Global
+HOST-SUFFIX,exf.best,Global
 HOST-SUFFIX,100classicbooks.com,Global
 HOST-SUFFIX,112263.com,Global
 HOST-SUFFIX,4pda.ru,Global
