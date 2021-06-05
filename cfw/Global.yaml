@@ -67,8 +67,6 @@ payload:
   - DOMAIN,sentry.lbry.tech
   - DOMAIN,shopify-hubbox.s3.amazonaws.com
   - DOMAIN,ssl-lvlt.cdn.ea.com
-  - DOMAIN,sub.exfos.net
-  - DOMAIN,suc.exf.best
   - DOMAIN,thumbnails.lbry.com
   - DOMAIN,upos-bstar-mirrorakam.akamaized.net
   - DOMAIN,vod-dash-uk-live.akamaized.net
@@ -98,6 +96,8 @@ payload:
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
+  - DOMAIN-SUFFIX,exfos.net
+  - DOMAIN-SUFFIX,exf.best  
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,4pda.ru
