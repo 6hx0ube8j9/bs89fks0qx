@@ -2166,7 +2166,7 @@ HOST-SUFFIX,vimeocdn.com,Global
 HOST-SUFFIX,offcloud.com,Global
 HOST-SUFFIX,xroute.pro,Global
 HOST-SUFFIX,bitwave.tv,Global
-HOST-SUFFIX,winhelponline.com
+HOST-SUFFIX,winhelponline.com,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
