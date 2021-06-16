@@ -15,6 +15,9 @@ payload:
   - DOMAIN,netease.ugcvideoss.ourdvs.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,bilivideo
+  - DOMAIN-KEYWORD,kunlunar
+  - DOMAIN-KEYWORD,kunlunno
   - DOMAIN-KEYWORD,netease
   - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,weibo
@@ -733,6 +736,7 @@ payload:
   - DOMAIN-SUFFIX,bilibiligame.net
   - DOMAIN-SUFFIX,bilibilipay.cn
   - DOMAIN-SUFFIX,bilibilipay.com
+  - DOMAIN-SUFFIX,bilicdn1.com
   - DOMAIN-SUFFIX,biligame.cn
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
@@ -1478,6 +1482,7 @@ payload:
   - DOMAIN-SUFFIX,glinksure.com
   - DOMAIN-SUFFIX,global-ks-cdn.com
   - DOMAIN-SUFFIX,globalfm.cn
+  - DOMAIN-SUFFIX,gmw.cn
   - DOMAIN-SUFFIX,gneec.com
   - DOMAIN-SUFFIX,gneec.com.cn
   - DOMAIN-SUFFIX,gneec3.com
@@ -2131,6 +2136,7 @@ payload:
   - DOMAIN-SUFFIX,kuaishoupay.com
   - DOMAIN-SUFFIX,kuaishouzt.cn
   - DOMAIN-SUFFIX,kuaishouzt.com
+  - DOMAIN-SUFFIX,kuaizhan.com
   - DOMAIN-SUFFIX,kuche.com
   - DOMAIN-SUFFIX,kugou.com
   - DOMAIN-SUFFIX,kuledushu.com
@@ -2372,6 +2378,7 @@ payload:
   - DOMAIN-SUFFIX,mmarket6.com
   - DOMAIN-SUFFIX,mmbizurl.cn
   - DOMAIN-SUFFIX,mmqidian.com
+  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mnbvdfg.com
   - DOMAIN-SUFFIX,mobike.com
   - DOMAIN-SUFFIX,mobilemgr-global.com
@@ -2609,6 +2616,7 @@ payload:
   - DOMAIN-SUFFIX,ppstream.net.cn
   - DOMAIN-SUFFIX,ppsurl.com
   - DOMAIN-SUFFIX,pptv.com
+  - DOMAIN-SUFFIX,pptvyun.com
   - DOMAIN-SUFFIX,pqyvzr56aceitx.com
   - DOMAIN-SUFFIX,prayaya.com
   - DOMAIN-SUFFIX,prestodb-china.com
@@ -3219,6 +3227,7 @@ payload:
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,tudouxy01.com
   - DOMAIN-SUFFIX,tuer123.com
+  - DOMAIN-SUFFIX,tujidu.com
   - DOMAIN-SUFFIX,tv.sohu
   - DOMAIN-SUFFIX,tvcc.cn
   - DOMAIN-SUFFIX,tvcc.com.cn
@@ -3487,6 +3496,7 @@ payload:
   - DOMAIN-SUFFIX,xdxiaoshuo.com
   - DOMAIN-SUFFIX,xevddy.com
   - DOMAIN-SUFFIX,xgo.com.cn
+  - DOMAIN-SUFFIX,xhscdn.com
   - DOMAIN-SUFFIX,xiachufang.com
   - DOMAIN-SUFFIX,xiami.com
   - DOMAIN-SUFFIX,xiami.net
@@ -3504,6 +3514,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoduzaijia.cn
   - DOMAIN-SUFFIX,xiaoduzaijia.com.cn
   - DOMAIN-SUFFIX,xiaog.xyz
+  - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,xiaojuchefu.cn
   - DOMAIN-SUFFIX,xiaojukeji.com
   - DOMAIN-SUFFIX,xiaoka.tv
@@ -3855,8 +3866,6 @@ payload:
   - DOMAIN-SUFFIX,zwtianshangm.com
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zygbdszt.net.cn
-  - DOMAIN-SUFFIX,mmstat.com
-  - DOMAIN-SUFFIX,pptvyun.com
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.13/32,no-resolve
@@ -3914,3 +3923,4 @@ payload:
   - IP-CIDR,59.111.181.38/32,no-resolve
   - IP-CIDR,59.111.181.60/32,no-resolve
   - IP-CIDR,59.111.21.14/31,no-resolve
+payload:
