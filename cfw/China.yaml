@@ -3872,6 +3872,7 @@ payload:
   - DOMAIN-SUFFIX,zwtianshangm.com
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zygbdszt.net.cn
+  - DOMAIN-SUFFIX,mp4er.com
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.13/32,no-resolve
