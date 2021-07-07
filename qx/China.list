@@ -379,6 +379,8 @@ HOST-SUFFIX,aianno.com,China
 HOST-SUFFIX,aicccloud.com,China
 HOST-SUFFIX,aicdn.work,China
 HOST-SUFFIX,aicoinstorge.com,China
+HOST-SUFFIX,aidi.tv,China
+HOST-SUFFIX,aiditv.cc,China
 HOST-SUFFIX,aihst8.com,China
 HOST-SUFFIX,aipage.com,China
 HOST-SUFFIX,aiqicha.cn,China
@@ -791,6 +793,7 @@ HOST-SUFFIX,bytedns1.com,China
 HOST-SUFFIX,bytedns2.com,China
 HOST-SUFFIX,bytednsdoc.com,China
 HOST-SUFFIX,bytefcdn.com,China
+HOST-SUFFIX,bytegoofy.com,China
 HOST-SUFFIX,byteimg.com,China
 HOST-SUFFIX,bytesfield.com,China
 HOST-SUFFIX,bytesmanager.com,China
@@ -1055,6 +1058,7 @@ HOST-SUFFIX,coolppa.cn,China
 HOST-SUFFIX,corari.com,China
 HOST-SUFFIX,counter-strike.cn,China
 HOST-SUFFIX,counter-strike.com.cn,China
+HOST-SUFFIX,cqmilahuoguo.com,China
 HOST-SUFFIX,crash.163.com,China
 HOST-SUFFIX,crasheye.cn,China
 HOST-SUFFIX,createwf.com,China
@@ -1337,6 +1341,7 @@ HOST-SUFFIX,easytrip.com,China
 HOST-SUFFIX,ebjvu.cn,China
 HOST-SUFFIX,ecns.cn,China
 HOST-SUFFIX,edra5.cn,China
+HOST-SUFFIX,edu-hb.com,China
 HOST-SUFFIX,edu4399.com,China
 HOST-SUFFIX,effirst.cn,China
 HOST-SUFFIX,effirst.com,China
@@ -1635,6 +1640,7 @@ HOST-SUFFIX,huaweistatic.com,China
 HOST-SUFFIX,huaweiyun.com,China
 HOST-SUFFIX,huaxiong.com,China
 HOST-SUFFIX,huihui.cn,China
+HOST-SUFFIX,huishij.com,China
 HOST-SUFFIX,hukeck.com,China
 HOST-SUFFIX,hukecs.com,China
 HOST-SUFFIX,hukecwx.com,China
@@ -1694,6 +1700,7 @@ HOST-SUFFIX,hwocloud.com,China
 HOST-SUFFIX,hwpan.com,China
 HOST-SUFFIX,hwtelcloud.com,China
 HOST-SUFFIX,hwtrip.com,China
+HOST-SUFFIX,hyzm.cc,China
 HOST-SUFFIX,hz.netease.com,China
 HOST-SUFFIX,hzchuli.top,China
 HOST-SUFFIX,i.qq.com,China
@@ -2398,6 +2405,7 @@ HOST-SUFFIX,molo.cn,China
 HOST-SUFFIX,monidata.com,China
 HOST-SUFFIX,monternet.com,China
 HOST-SUFFIX,morethan.tv,China
+HOST-SUFFIX,mp4er.com,China
 HOST-SUFFIX,mqqurl.com,China
 HOST-SUFFIX,mr.da.netease.com,China
 HOST-SUFFIX,msg.video.qiyi.com,China
@@ -3200,6 +3208,7 @@ HOST-SUFFIX,toutiaolite2.com,China
 HOST-SUFFIX,toutiaopage.com,China
 HOST-SUFFIX,toutiaoribao.cn,China
 HOST-SUFFIX,toutiaoribao.net,China
+HOST-SUFFIX,toutiaostatic.com,China
 HOST-SUFFIX,toutiaowap.cn,China
 HOST-SUFFIX,toutiaowap.com,China
 HOST-SUFFIX,toutiaowap.net,China
@@ -3336,6 +3345,7 @@ HOST-SUFFIX,vmall.com,China
 HOST-SUFFIX,vmallres.com,China
 HOST-SUFFIX,vmoso.cn,China
 HOST-SUFFIX,vnet.cn,China
+HOST-SUFFIX,volcimagex.net,China
 HOST-SUFFIX,volleychina.org,China
 HOST-SUFFIX,voovlive.com,China
 HOST-SUFFIX,vplay8.com,China
@@ -3871,7 +3881,6 @@ HOST-SUFFIX,zwmrxd.com,China
 HOST-SUFFIX,zwtianshangm.com,China
 HOST-SUFFIX,zybang.com,China
 HOST-SUFFIX,zygbdszt.net.cn,China
-HOST-SUFFIX,mp4er.com,China
 IP-CIDR,101.224.0.0/13,China
 IP-CIDR,101.71.154.241/32,China
 IP-CIDR,103.126.92.13/32,China
