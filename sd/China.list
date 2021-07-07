@@ -379,6 +379,8 @@ DOMAIN-SUFFIX,aianno.com
 DOMAIN-SUFFIX,aicccloud.com
 DOMAIN-SUFFIX,aicdn.work
 DOMAIN-SUFFIX,aicoinstorge.com
+DOMAIN-SUFFIX,aidi.tv
+DOMAIN-SUFFIX,aiditv.cc
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,aipage.com
 DOMAIN-SUFFIX,aiqicha.cn
@@ -791,6 +793,7 @@ DOMAIN-SUFFIX,bytedns1.com
 DOMAIN-SUFFIX,bytedns2.com
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,bytefcdn.com
+DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytesfield.com
 DOMAIN-SUFFIX,bytesmanager.com
@@ -1055,6 +1058,7 @@ DOMAIN-SUFFIX,coolppa.cn
 DOMAIN-SUFFIX,corari.com
 DOMAIN-SUFFIX,counter-strike.cn
 DOMAIN-SUFFIX,counter-strike.com.cn
+DOMAIN-SUFFIX,cqmilahuoguo.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crasheye.cn
 DOMAIN-SUFFIX,createwf.com
@@ -1337,6 +1341,7 @@ DOMAIN-SUFFIX,easytrip.com
 DOMAIN-SUFFIX,ebjvu.cn
 DOMAIN-SUFFIX,ecns.cn
 DOMAIN-SUFFIX,edra5.cn
+DOMAIN-SUFFIX,edu-hb.com
 DOMAIN-SUFFIX,edu4399.com
 DOMAIN-SUFFIX,effirst.cn
 DOMAIN-SUFFIX,effirst.com
@@ -1635,6 +1640,7 @@ DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiyun.com
 DOMAIN-SUFFIX,huaxiong.com
 DOMAIN-SUFFIX,huihui.cn
+DOMAIN-SUFFIX,huishij.com
 DOMAIN-SUFFIX,hukeck.com
 DOMAIN-SUFFIX,hukecs.com
 DOMAIN-SUFFIX,hukecwx.com
@@ -1694,6 +1700,7 @@ DOMAIN-SUFFIX,hwocloud.com
 DOMAIN-SUFFIX,hwpan.com
 DOMAIN-SUFFIX,hwtelcloud.com
 DOMAIN-SUFFIX,hwtrip.com
+DOMAIN-SUFFIX,hyzm.cc
 DOMAIN-SUFFIX,hz.netease.com
 DOMAIN-SUFFIX,hzchuli.top
 DOMAIN-SUFFIX,i.qq.com
@@ -2398,6 +2405,7 @@ DOMAIN-SUFFIX,molo.cn
 DOMAIN-SUFFIX,monidata.com
 DOMAIN-SUFFIX,monternet.com
 DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,mp4er.com
 DOMAIN-SUFFIX,mqqurl.com
 DOMAIN-SUFFIX,mr.da.netease.com
 DOMAIN-SUFFIX,msg.video.qiyi.com
@@ -3200,6 +3208,7 @@ DOMAIN-SUFFIX,toutiaolite2.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaoribao.cn
 DOMAIN-SUFFIX,toutiaoribao.net
+DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,toutiaowap.cn
 DOMAIN-SUFFIX,toutiaowap.com
 DOMAIN-SUFFIX,toutiaowap.net
@@ -3336,6 +3345,7 @@ DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,vmoso.cn
 DOMAIN-SUFFIX,vnet.cn
+DOMAIN-SUFFIX,volcimagex.net
 DOMAIN-SUFFIX,volleychina.org
 DOMAIN-SUFFIX,voovlive.com
 DOMAIN-SUFFIX,vplay8.com
@@ -3871,7 +3881,6 @@ DOMAIN-SUFFIX,zwmrxd.com
 DOMAIN-SUFFIX,zwtianshangm.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,zygbdszt.net.cn
-DOMAIN-SUFFIX,mp4er.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
