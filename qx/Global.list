@@ -89,6 +89,7 @@ HOST-KEYWORD,invidious,Global
 HOST-KEYWORD,itdmusic,Global
 HOST-KEYWORD,jooxweb-api,Global
 HOST-KEYWORD,pluspremieres,Global
+HOST-KEYWORD,standardnotes,Global
 HOST-KEYWORD,steambroadcast,Global
 HOST-KEYWORD,steamstore,Global
 HOST-KEYWORD,steamuserimages,Global
@@ -1550,6 +1551,7 @@ HOST-SUFFIX,owncube.com,Global
 HOST-SUFFIX,p-cdn.us,Global
 HOST-SUFFIX,paltalk.com,Global
 HOST-SUFFIX,pandora.com,Global
+HOST-SUFFIX,pangzitv.com,Global
 HOST-SUFFIX,paper-attachments.s3.amazonaws.com ,Global
 HOST-SUFFIX,paradisehotelquizfox.com,Global
 HOST-SUFFIX,paragon.com,Global
@@ -1681,6 +1683,8 @@ HOST-SUFFIX,pvzgw2.com,Global
 HOST-SUFFIX,pvzheroes.com,Global
 HOST-SUFFIX,pwsafe.org,Global
 HOST-SUFFIX,pximg.net,Global
+HOST-SUFFIX,pztv.ca,Global
+HOST-SUFFIX,pztv.com,Global
 HOST-SUFFIX,q13.com,Global
 HOST-SUFFIX,q13fox.com,Global
 HOST-SUFFIX,qbittorrent.org,Global
@@ -1816,6 +1820,7 @@ HOST-SUFFIX,st.dl.bscstorage.net,Global
 HOST-SUFFIX,st.dl.eccdnx.com,Global
 HOST-SUFFIX,st.dl.pinyuncloud.com,Global
 HOST-SUFFIX,stackpathdns.com,Global
+HOST-SUFFIX,standardnotes.com,Global
 HOST-SUFFIX,standardnotes.org,Global
 HOST-SUFFIX,starfox.com,Global
 HOST-SUFFIX,startpage.com,Global
@@ -2173,9 +2178,6 @@ HOST-SUFFIX,zohowebstatic.com,Global
 HOST-SUFFIX,zoom.us,Global
 HOST-SUFFIX,zorincdn.com,Global
 HOST-SUFFIX,zorinos.com,Global
-HOST-SUFFIX,pangzitv.com,Global
-HOST-SUFFIX,pztv.ca,Global
-HOST-SUFFIX,pztv.com,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
