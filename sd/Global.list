@@ -89,6 +89,7 @@ DOMAIN-KEYWORD,invidious
 DOMAIN-KEYWORD,itdmusic
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,pluspremieres
+DOMAIN-KEYWORD,standardnotes
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
@@ -1550,6 +1551,7 @@ DOMAIN-SUFFIX,owncube.com
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,paltalk.com
 DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,pangzitv.com
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com 
 DOMAIN-SUFFIX,paradisehotelquizfox.com
 DOMAIN-SUFFIX,paragon.com
@@ -1681,6 +1683,8 @@ DOMAIN-SUFFIX,pvzgw2.com
 DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,pwsafe.org
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pztv.ca
+DOMAIN-SUFFIX,pztv.com
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
 DOMAIN-SUFFIX,qbittorrent.org
@@ -1816,6 +1820,7 @@ DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,stackpathdns.com
+DOMAIN-SUFFIX,standardnotes.com
 DOMAIN-SUFFIX,standardnotes.org
 DOMAIN-SUFFIX,starfox.com
 DOMAIN-SUFFIX,startpage.com
@@ -2173,9 +2178,6 @@ DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zorincdn.com
 DOMAIN-SUFFIX,zorinos.com
-DOMAIN-SUFFIX,pangzitv.com
-DOMAIN-SUFFIX,pztv.ca
-DOMAIN-SUFFIX,pztv.com
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.53.48.0/23,no-resolve
