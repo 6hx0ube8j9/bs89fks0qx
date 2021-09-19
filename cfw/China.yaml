@@ -912,6 +912,7 @@ payload:
   - DOMAIN-SUFFIX,chinanews.com.cn
   - DOMAIN-SUFFIX,chinaradio.cn
   - DOMAIN-SUFFIX,chinaso.com
+  - DOMAIN-SUFFIX,chinastock.com
   - DOMAIN-SUFFIX,chinatelecom-ec.com 
   - DOMAIN-SUFFIX,chinatelecom-h.com
   - DOMAIN-SUFFIX,chinatelecom.cn
@@ -1049,6 +1050,7 @@ payload:
   - DOMAIN-SUFFIX,cmfu.com
   - DOMAIN-SUFFIX,cmicrwx.cn
   - DOMAIN-SUFFIX,cmpassport.com
+  - DOMAIN-SUFFIX,cmschina.com
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,cnblogsc.com
@@ -1105,6 +1107,8 @@ payload:
   - DOMAIN-SUFFIX,crisydney.com
   - DOMAIN-SUFFIX,critokyo.com
   - DOMAIN-SUFFIX,criwashington.com
+  - DOMAIN-SUFFIX,cs.ecitic.com
+  - DOMAIN-SUFFIX,csc108.com
   - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,ctcdn.cn
   - DOMAIN-SUFFIX,ctcdn.com
@@ -1358,6 +1362,7 @@ payload:
   - DOMAIN-SUFFIX,eastmoney.com
   - DOMAIN-SUFFIX,easytrip.com
   - DOMAIN-SUFFIX,ebjvu.cn
+  - DOMAIN-SUFFIX,ecitic.com
   - DOMAIN-SUFFIX,ecns.cn
   - DOMAIN-SUFFIX,edra5.cn
   - DOMAIN-SUFFIX,edu-hb.com
@@ -1528,9 +1533,11 @@ payload:
   - DOMAIN-SUFFIX,gtimg.cn
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,gtimg.com.cn
+  - DOMAIN-SUFFIX,gtja.com
   - DOMAIN-SUFFIX,guangzhou.gd.cn
   - DOMAIN-SUFFIX,guichuideng.com
   - DOMAIN-SUFFIX,guoguo-app.com
+  - DOMAIN-SUFFIX,guosen.com
   - DOMAIN-SUFFIX,guotv.com
   - DOMAIN-SUFFIX,guotv.com.cn
   - DOMAIN-SUFFIX,gvcr9zaemdzh.com
@@ -1559,6 +1566,7 @@ payload:
   - DOMAIN-SUFFIX,haowu.link
   - DOMAIN-SUFFIX,happykey6.com
   - DOMAIN-SUFFIX,harmonyos.com
+  - DOMAIN-SUFFIX,hazq.com 
   - DOMAIN-SUFFIX,hc-cdn.cn
   - DOMAIN-SUFFIX,hc-cdn.com
   - DOMAIN-SUFFIX,hcaptcha.com
@@ -1627,7 +1635,11 @@ payload:
   - DOMAIN-SUFFIX,hotsoonzb.com
   - DOMAIN-SUFFIX,hotsoonzb.net
   - DOMAIN-SUFFIX,hr-welink.com
+  - DOMAIN-SUFFIX,htisec.com
   - DOMAIN-SUFFIX,html5mark.com
+  - DOMAIN-SUFFIX,htsc.com
+  - DOMAIN-SUFFIX,htsc.com.cn
+  - DOMAIN-SUFFIX,htsec.com
   - DOMAIN-SUFFIX,https-rulesets.org
   - DOMAIN-SUFFIX,huamengxiaoshuo.com
   - DOMAIN-SUFFIX,huawangzhixun.com
@@ -3037,6 +3049,7 @@ payload:
   - DOMAIN-SUFFIX,svk3o97xmyid93.com
   - DOMAIN-SUFFIX,swan366.com
   - DOMAIN-SUFFIX,swaqds.com
+  - DOMAIN-SUFFIX,swhysc.com
   - DOMAIN-SUFFIX,sxwao4zi6dgp.com
   - DOMAIN-SUFFIX,syscan360.com
   - DOMAIN-SUFFIX,syscan360.net
@@ -3650,6 +3663,7 @@ payload:
   - DOMAIN-SUFFIX,xs8.cn
   - DOMAIN-SUFFIX,xsjcs.cn
   - DOMAIN-SUFFIX,xsjom.com
+  - DOMAIN-SUFFIX,xueqiu.com 
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,xuz0.cn
   - DOMAIN-SUFFIX,xxsy.com
