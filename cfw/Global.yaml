@@ -729,6 +729,7 @@ payload:
   - DOMAIN-SUFFIX,electronicarts.fr
   - DOMAIN-SUFFIX,elementary.io
   - DOMAIN-SUFFIX,elpais.com
+  - DOMAIN-SUFFIX,emby.men 
   - DOMAIN-SUFFIX,emojipedia.org
   - DOMAIN-SUFFIX,enanyang.my
   - DOMAIN-SUFFIX,encoretvb.com
@@ -774,6 +775,7 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,fixtracking.com
+  - DOMAIN-SUFFIX,flexlinex.com
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipnotestudio.com
@@ -2109,6 +2111,7 @@ payload:
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yadi.sk
+  - DOMAIN-SUFFIX,yahoo.co.jp 
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yamaxun.cn
   - DOMAIN-SUFFIX,yamaxun.com
@@ -2141,6 +2144,7 @@ payload:
   - DOMAIN-SUFFIX,yesasia.com
   - DOMAIN-SUFFIX,yewtu.be
   - DOMAIN-SUFFIX,yimg.com
+  - DOMAIN-SUFFIX,yimg.jp 
   - DOMAIN-SUFFIX,yogify.com
   - DOMAIN-SUFFIX,yomiuri.co.jp
   - DOMAIN-SUFFIX,yoshisnewisland.com
@@ -2244,3 +2248,4 @@ payload:
   - IP-CIDR6,2402:2a80::/32,no-resolve
   - IP-CIDR6,2620:10f:d000::/44,no-resolve
   - IP-CIDR6,2a02:6b8::/29,no-resolve
+
