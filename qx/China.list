@@ -3960,6 +3960,10 @@ HOST-SUFFIX,cntv.myalicdn.com,China
 HOST-SUFFIX,myalicdn.com,China
 HOST-SUFFIX,xycdn.com,China
 HOST-SUFFIX,bytetos.com,China
+HOST-SUFFIX,umeng.com,China
+HOST-SUFFIX,ahzwfw.gov.cn,China
+HOST-SUFFIX,gov.cn,China
+HOST-SUFFIX,mob.com,China
 IP-CIDR,101.224.0.0/13,China
 IP-CIDR,101.71.154.241/32,China
 IP-CIDR,103.126.92.13/32,China
