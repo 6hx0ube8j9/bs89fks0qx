@@ -3960,6 +3960,10 @@ DOMAIN-SUFFIX,cntv.myalicdn.com
 DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,ahzwfw.gov.cn
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,mob.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
