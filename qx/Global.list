@@ -1,12 +1,14 @@
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
+HOST,abcnewsvod-f.akamaihd.net,Global
 HOST,analytics.ytt.yt,Global
 HOST,aod-dash-uk-live.akamaized.net,Global
 HOST,aod-hls-uk-live.akamaized.net,Global
 HOST,api.viu.now.com,Global
 HOST,atv-ps.amazon.com,Global
 HOST,avodmp4s3ww-a.akamaihd.net,Global
+HOST,bbc.gscontxt.net,Global
 HOST,bcbolt446c5271-a.akamaihd.net,Global
 HOST,bcbolthboa-a.akamaihd.net,Global
 HOST,boxinc.sc.omtrdc.net,Global
@@ -53,6 +55,7 @@ HOST,link.theplatform.com,Global
 HOST,litvfreemobile-hichannel.cdn.hinet.net,Global
 HOST,maxcdn.bootstrapcdn.com,Global
 HOST,netflix.com.edgesuite.net,Global
+HOST,nhkw-mzvod.akamaized.net,Global
 HOST,ocsp.int-x3.letsencrypt.org,Global
 HOST,origin-a.akamaihd.net,Global
 HOST,player18.lbryplayer.xyz,Global
@@ -67,6 +70,9 @@ HOST,shopify-hubbox.s3.amazonaws.com,Global
 HOST,ssl-lvlt.cdn.ea.com,Global
 HOST,thumbnails.lbry.com,Global
 HOST,upos-bstar-mirrorakam.akamaized.net,Global
+HOST,voa-11.akacast.akamaistream.net,Global
+HOST,voa-lh.akamaihd.net,Global
+HOST,voanews-vh.akamaihd.net,Global
 HOST,vod-dash-uk-live.akamaized.net,Global
 HOST,vod-dash-uk-live.bbcfmt.hs.llnwd.net,Global
 HOST,vod-thumb-uk-live.akamaized.net,Global
@@ -109,9 +115,11 @@ HOST-SUFFIX,a2z.com,Global
 HOST-SUFFIX,abc-studios.com,Global
 HOST-SUFFIX,abc.com,Global
 HOST-SUFFIX,abc.net.au,Global
+HOST-SUFFIX,abcnews.com,Global
 HOST-SUFFIX,abebooks.com,Global
 HOST-SUFFIX,abema.io,Global
 HOST-SUFFIX,abema.tv,Global
+HOST-SUFFIX,aboluowang.com,Global
 HOST-SUFFIX,about.co.kr,Global
 HOST-SUFFIX,aboutamazon.cn,Global
 HOST-SUFFIX,aboutamazon.co.uk,Global
@@ -733,6 +741,7 @@ HOST-SUFFIX,emojipedia.org,Global
 HOST-SUFFIX,enanyang.my,Global
 HOST-SUFFIX,encoretvb.com,Global
 HOST-SUFFIX,encyclopedia.com,Global
+HOST-SUFFIX,ensighten.com,Global
 HOST-SUFFIX,enteentegeh.de,Global
 HOST-SUFFIX,epicgames.com,Global
 HOST-SUFFIX,eracom.com.tw,Global
@@ -962,6 +971,7 @@ HOST-SUFFIX,foxtv.com,Global
 HOST-SUFFIX,foxtvdvd.com,Global
 HOST-SUFFIX,foxuv.com,Global
 HOST-SUFFIX,foxweatherwatch.com,Global
+HOST-SUFFIX,francemediasmonde.com,Global
 HOST-SUFFIX,free-ss.site,Global
 HOST-SUFFIX,freecarrierlookup.com,Global
 HOST-SUFFIX,freehulu.com,Global
@@ -1121,6 +1131,7 @@ HOST-SUFFIX,huobi.com,Global
 HOST-SUFFIX,hutpromos.com,Global
 HOST-SUFFIX,hyread.com.tw,Global
 HOST-SUFFIX,i-cable.com,Global
+HOST-SUFFIX,i-scmp.com,Global
 HOST-SUFFIX,ibb.co,Global
 HOST-SUFFIX,ibtimes.com,Global
 HOST-SUFFIX,icij.org,Global
@@ -1144,6 +1155,7 @@ HOST-SUFFIX,insecam.org,Global
 HOST-SUFFIX,insidevoa.com,Global
 HOST-SUFFIX,invidious.io,Global
 HOST-SUFFIX,ipfs.io,Global
+HOST-SUFFIX,iq.com,Global
 HOST-SUFFIX,issuu.com,Global
 HOST-SUFFIX,istockphoto.com,Global
 HOST-SUFFIX,itopmusic.org,Global
@@ -1243,6 +1255,7 @@ HOST-SUFFIX,logimg.jp,Global
 HOST-SUFFIX,logmein.com,Global
 HOST-SUFFIX,londonmithraeum.com,Global
 HOST-SUFFIX,lordofultima.com,Global
+HOST-SUFFIX,ltn.com.tw,Global
 HOST-SUFFIX,macrumors.com,Global
 HOST-SUFFIX,maddenchampionship.com,Global
 HOST-SUFFIX,maddenrewards.com,Global
@@ -1288,6 +1301,7 @@ HOST-SUFFIX,medium.com,Global
 HOST-SUFFIX,mega.nz,Global
 HOST-SUFFIX,mergersandinquisitions.com,Global
 HOST-SUFFIX,metapix.net,Global
+HOST-SUFFIX,mewe.com,Global
 HOST-SUFFIX,mickey.tv,Global
 HOST-SUFFIX,miitomo.com,Global
 HOST-SUFFIX,miitomo.com.cn,Global
@@ -1418,6 +1432,7 @@ HOST-SUFFIX,nflxso.net,Global
 HOST-SUFFIX,nflxvideo.net,Global
 HOST-SUFFIX,nfsworld.com,Global
 HOST-SUFFIX,ngeo.com,Global
+HOST-SUFFIX,nhk.jp,Global
 HOST-SUFFIX,nhk.or.jp,Global
 HOST-SUFFIX,nhncorp.jp,Global
 HOST-SUFFIX,nic.yandex,Global
@@ -1479,6 +1494,7 @@ HOST-SUFFIX,npm.community,Global
 HOST-SUFFIX,npmjs.com,Global
 HOST-SUFFIX,npmjs.org,Global
 HOST-SUFFIX,nrk.no,Global
+HOST-SUFFIX,ntdtv.com,Global
 HOST-SUFFIX,nuget.org,Global
 HOST-SUFFIX,nulled.to,Global
 HOST-SUFFIX,nvda.d2.sc.omtrdc.net,Global
@@ -1577,6 +1593,7 @@ HOST-SUFFIX,personaltrainermath.com,Global
 HOST-SUFFIX,phncdn.com,Global
 HOST-SUFFIX,phprcdn.com,Global
 HOST-SUFFIX,picacomic.com,Global
+HOST-SUFFIX,piksel.com,Global
 HOST-SUFFIX,pimg.tw,Global
 HOST-SUFFIX,pincong.rocks,Global
 HOST-SUFFIX,pinimg.com,Global
@@ -1760,6 +1777,7 @@ HOST-SUFFIX,scroll.com,Global
 HOST-SUFFIX,seamonkey-project.org,Global
 HOST-SUFFIX,seaofsolitude.com,Global
 HOST-SUFFIX,seatguru.com,Global
+HOST-SUFFIX,secomtrust.net,Global
 HOST-SUFFIX,sendowl.com,Global
 HOST-SUFFIX,sensortower.com,Global
 HOST-SUFFIX,sentry.prod.mozaws.net,Global
@@ -1883,6 +1901,7 @@ HOST-SUFFIX,tableauxmly.com,Global
 HOST-SUFFIX,tapatalk.com,Global
 HOST-SUFFIX,teamneedforspeed.com,Global
 HOST-SUFFIX,techatbloomberg.com,Global
+HOST-SUFFIX,technews.tw,Global
 HOST-SUFFIX,teco-hk.org,Global
 HOST-SUFFIX,teco-mo.org,Global
 HOST-SUFFIX,teddysun.com,Global
@@ -2182,8 +2201,6 @@ HOST-SUFFIX,zohowebstatic.com,Global
 HOST-SUFFIX,zoom.us,Global
 HOST-SUFFIX,zorincdn.com,Global
 HOST-SUFFIX,zorinos.com,Global
-HOST-SUFFIX,iq.com,Global
-HOST-SUFFIX,technews.tw,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
