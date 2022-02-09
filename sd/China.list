@@ -3964,6 +3964,13 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,ahzwfw.gov.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,bdfangzhou.com
+DOMAIN-SUFFIX,haima.me
+DOMAIN-SUFFIX,haimawan.com
+DOMAIN-SUFFIX,shimo.im
+DOMAIN-SUFFIX,shimonote.com
+DOMAIN-SUFFIX,snodehome.cn
+DOMAIN-SUFFIX,szbdyd.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
