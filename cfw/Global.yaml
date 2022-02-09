@@ -2204,6 +2204,7 @@ payload:
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zorincdn.com
   - DOMAIN-SUFFIX,zorinos.com
+  - DOMAIN-SUFFIX,jsdelivr.com
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,103.2.28.0/22,no-resolve
   - IP-CIDR,103.53.48.0/23,no-resolve
