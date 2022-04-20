@@ -138,6 +138,8 @@ HOST-SUFFIX,aboutamazon.pl,Global
 HOST-SUFFIX,ac-pocketcamp.com,Global
 HOST-SUFFIX,acmvalidations.com,Global
 HOST-SUFFIX,acmvalidationsaws.com,Global
+HOST-SUFFIX,addthis.com,Global
+HOST-SUFFIX,addthisedge.com,Global
 HOST-SUFFIX,admantx.com,Global
 HOST-SUFFIX,adobedtm.com,Global
 HOST-SUFFIX,adventuresbydisney.com,Global
@@ -401,6 +403,7 @@ HOST-SUFFIX,change.org,Global
 HOST-SUFFIX,channel4.com,Global
 HOST-SUFFIX,channel5.com,Global
 HOST-SUFFIX,channelnewsasia.com,Global
+HOST-SUFFIX,chartbeat.com,Global
 HOST-SUFFIX,chartbeat.net,Global
 HOST-SUFFIX,chillingo.com,Global
 HOST-SUFFIX,cinemax.com,Global
@@ -444,6 +447,7 @@ HOST-SUFFIX,cookielaw.org,Global
 HOST-SUFFIX,coronavirusnow.com,Global
 HOST-SUFFIX,coverity.com,Global
 HOST-SUFFIX,crates.io,Global
+HOST-SUFFIX,crazyegg.com,Global
 HOST-SUFFIX,createspace.com,Global
 HOST-SUFFIX,crucial.com,Global
 HOST-SUFFIX,cryptomator.org,Global
@@ -767,6 +771,7 @@ HOST-SUFFIX,espncdn.com,Global
 HOST-SUFFIX,espndotcom.tt.omtrdc.net,Global
 HOST-SUFFIX,etherscan.io,Global
 HOST-SUFFIX,euronews.com,Global
+HOST-SUFFIX,everesttech.net,Global
 HOST-SUFFIX,evernote.com,Global
 HOST-SUFFIX,evozi.com,Global
 HOST-SUFFIX,exblog.jp,Global
@@ -1594,6 +1599,7 @@ HOST-SUFFIX,odysee.tv,Global
 HOST-SUFFIX,offcloud.com,Global
 HOST-SUFFIX,ok.ru,Global
 HOST-SUFFIX,okex.com,Global
+HOST-SUFFIX,omtrdc.net,Global
 HOST-SUFFIX,on.cc,Global
 HOST-SUFFIX,onetrust.com,Global
 HOST-SUFFIX,onlinepngtools.com,Global
@@ -1802,6 +1808,7 @@ HOST-SUFFIX,republicworld.com,Global
 HOST-SUFFIX,resilio.com,Global
 HOST-SUFFIX,reuters.com,Global
 HOST-SUFFIX,reutersmedia.net,Global
+HOST-SUFFIX,rfa.org,Global
 HOST-SUFFIX,rfi.fr,Global
 HOST-SUFFIX,riverside.rocks,Global
 HOST-SUFFIX,rkdms.com,Global
