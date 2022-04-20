@@ -1,4 +1,75 @@
 payload:
+  - DDOMAIN-SUFFIX,13tv.top
+  - DDOMAIN-SUFFIX,a4k.net
+  - DDOMAIN-SUFFIX,artemislena.eu
+  - DDOMAIN-SUFFIX,audiorelay.net
+  - DDOMAIN-SUFFIX,beanfun.com
+  - DDOMAIN-SUFFIX,bendodson.com
+  - DDOMAIN-SUFFIX,bromite.org
+  - DDOMAIN-SUFFIX,bunny.net
+  - DDOMAIN-SUFFIX,com.sb
+  - DDOMAIN-SUFFIX,cthd.icu
+  - DDOMAIN-SUFFIX,cubeatic.com
+  - DDOMAIN-SUFFIX,digitalcertvalidation.com
+  - DDOMAIN-SUFFIX,dlandroid.com
+  - DDOMAIN-SUFFIX,epochtimes.com
+  - DDOMAIN-SUFFIX,flexconfig.net
+  - DDOMAIN-SUFFIX,gitbook.io
+  - DDOMAIN-SUFFIX,h-cdn.com
+  - DDOMAIN-SUFFIX,hsappstatic.net
+  - DDOMAIN-SUFFIX,hubspot.com
+  - DDOMAIN-SUFFIX,icoicon.com
+  - DDOMAIN-SUFFIX,intercom.io
+  - DDOMAIN-SUFFIX,invidious.io
+  - DDOMAIN-SUFFIX,jwpcdn.com
+  - DDOMAIN-SUFFIX,jwplayer.com
+  - DDOMAIN-SUFFIX,kaltura.com
+  - DDOMAIN-SUFFIX,keepassdx.com
+  - DDOMAIN-SUFFIX,lencr.org
+  - DDOMAIN-SUFFIX,lingvanex.com
+  - DDOMAIN-SUFFIX,manjaro.org
+  - DDOMAIN-SUFFIX,mega.co.nz
+  - DDOMAIN-SUFFIX,mega.io
+  - DDOMAIN-SUFFIX,memberful.com
+  - DDOMAIN-SUFFIX,mixplorer.com
+  - DDOMAIN-SUFFIX,mutahar.rocks
+  - DDOMAIN-SUFFIX,neverware.com
+  - DDOMAIN-SUFFIX,nordicwise.com
+  - DDOMAIN-SUFFIX,odycdn.com
+  - DDOMAIN-SUFFIX,odysee.live
+  - DDOMAIN-SUFFIX,odysee.tv
+  - DDOMAIN-SUFFIX,onlinepngtools.com
+  - DDOMAIN-SUFFIX,osbusiness.net
+  - DDOMAIN-SUFFIX,pardot.com
+  - DDOMAIN-SUFFIX,polyfill.io
+  - DDOMAIN-SUFFIX,prismic.io
+  - DDOMAIN-SUFFIX,psi.cash
+  - DDOMAIN-SUFFIX,psiphon.ca
+  - DDOMAIN-SUFFIX,pstatic.net
+  - DDOMAIN-SUFFIX,puffyan.us
+  - DDOMAIN-SUFFIX,qwant.com
+  - DDOMAIN-SUFFIX,random.org
+  - DDOMAIN-SUFFIX,rebrand.ly
+  - DDOMAIN-SUFFIX,riverside.rocks
+  - DDOMAIN-SUFFIX,shields.io
+  - DDOMAIN-SUFFIX,snopyta.org
+  - DDOMAIN-SUFFIX,squarespace-cdn.com
+  - DDOMAIN-SUFFIX,sync.com
+  - DDOMAIN-SUFFIX,tawk.to
+  - DDOMAIN-SUFFIX,teracloud.jp
+  - DDOMAIN-SUFFIX,tiqcdn.com
+  - DDOMAIN-SUFFIX,tradingview.com
+  - DDOMAIN-SUFFIX,twrp.me
+  - DDOMAIN-SUFFIX,usuc.cc
+  - DDOMAIN-SUFFIX,uuidgenerator.net
+  - DDOMAIN-SUFFIX,visualskins.com
+  - DDOMAIN-SUFFIX,wallpapercave.com
+  - DDOMAIN-SUFFIX,widget.psi.cash
+  - DDOMAIN-SUFFIX,xamh.de
+  - DDOMAIN-SUFFIX,yukonga.top
+  - DDOMAIN-SUFFIX,zobj.net
+  - DDOMAIN-SUFFIX,zorin.com
+  - DDOMAIN-SUFFIX,zulipchat.com
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,a248.e.akamai.net
   - DOMAIN,a771.dscq.akamai.net
@@ -1177,6 +1248,8 @@ payload:
   - DOMAIN-SUFFIX,joplinapp.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,justduckit.com
   - DOMAIN-SUFFIX,justmysocks.net
@@ -1595,7 +1668,6 @@ payload:
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,piksel.com
-  - DOMAIN-SUFFIX,piksel.com
   - DOMAIN-SUFFIX,pimg.tw
   - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,pinimg.com
@@ -1772,7 +1844,6 @@ payload:
   - DOMAIN-SUFFIX,sail-horizon.com
   - DOMAIN-SUFFIX,sail-personalize.com
   - DOMAIN-SUFFIX,sail-track.com
-  - DOMAIN-SUFFIX,scmp.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN-SUFFIX,scribd.com
   - DOMAIN-SUFFIX,scribdassets.com
@@ -2204,8 +2275,6 @@ payload:
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zorincdn.com
   - DOMAIN-SUFFIX,zorinos.com
-  - DOMAIN-SUFFIX,jsdelivr.com
-  - DOMAIN-SUFFIX,jsdelivr.net
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,103.2.28.0/22,no-resolve
   - IP-CIDR,103.53.48.0/23,no-resolve
