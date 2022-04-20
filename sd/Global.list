@@ -138,6 +138,8 @@ DOMAIN-SUFFIX,aboutamazon.pl
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,admantx.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adventuresbydisney.com
@@ -401,6 +403,7 @@ DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,channelnewsasia.com
+DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,chartbeat.net
 DOMAIN-SUFFIX,chillingo.com
 DOMAIN-SUFFIX,cinemax.com
@@ -444,6 +447,7 @@ DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,coverity.com
 DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,crucial.com
 DOMAIN-SUFFIX,cryptomator.org
@@ -767,6 +771,7 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,exblog.jp
@@ -1594,6 +1599,7 @@ DOMAIN-SUFFIX,odysee.tv
 DOMAIN-SUFFIX,offcloud.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,onlinepngtools.com
@@ -1802,6 +1808,7 @@ DOMAIN-SUFFIX,republicworld.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
+DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,riverside.rocks
 DOMAIN-SUFFIX,rkdms.com
