@@ -5728,6 +5728,9 @@ var RULES = [
 	".cnc.blzstatic.cn",
 	".nosdn.127.net",
 	".wowchina.com",
+	".caict.ac.cn",
+	".alipay.cn",
+	".wallstcn.com",
                    
     ]
 ];
