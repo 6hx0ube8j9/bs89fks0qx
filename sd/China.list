@@ -5205,6 +5205,9 @@ DOMAIN-SUFFIX,bnet.163.com
 DOMAIN-SUFFIX,cnc.blzstatic.cn
 DOMAIN-SUFFIX,nosdn.127.net
 DOMAIN-SUFFIX,wowchina.com
+DOMAIN-SUFFIX,caict.ac.cn
+DOMAIN-SUFFIX,alipay.cn
+DOMAIN-SUFFIX,wallstcn.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
