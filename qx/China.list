@@ -830,7 +830,6 @@ HOST-SUFFIX,baomitu.com,China
 HOST-SUFFIX,baotoo.com,China
 HOST-SUFFIX,baozengzhang.com,China
 HOST-SUFFIX,bapiw.com,China
-HOST-SUFFIX,battle.net,China
 HOST-SUFFIX,bazai.com,China
 HOST-SUFFIX,bbf.org.cn,China
 HOST-SUFFIX,bbm0v.cn,China
@@ -926,7 +925,6 @@ HOST-SUFFIX,bk3r.com,China
 HOST-SUFFIX,bkiije.com,China
 HOST-SUFFIX,blackberry.com,China
 HOST-SUFFIX,blackdragon.com,China
-HOST-SUFFIX,blizzard.com,China
 HOST-SUFFIX,blovestorm.com,China
 HOST-SUFFIX,blurdev.com,China
 HOST-SUFFIX,bnet.cn,China
@@ -5197,6 +5195,16 @@ HOST-SUFFIX,zwmrxd.com,China
 HOST-SUFFIX,zwtianshangm.com,China
 HOST-SUFFIX,zybang.com,China
 HOST-SUFFIX,zygbdszt.net.cn,China
+HOST-SUFFIX,arkose.com.cn,China
+HOST-SUFFIX,battlenet.com.cn,China
+HOST-SUFFIX,blizzard.cn,China
+HOST-SUFFIX,blizzardgames.cn,China
+HOST-SUFFIX,blz.nosdn.127.net,China 
+HOST-SUFFIX,blzstatic.cn,China
+HOST-SUFFIX,bnet.163.com,China
+HOST-SUFFIX,cnc.blzstatic.cn,China
+HOST-SUFFIX,nosdn.127.net,China
+HOST-SUFFIX,wowchina.com,China
 IP-CIDR,101.224.0.0/13,China
 IP-CIDR,101.71.154.241/32,China
 IP-CIDR,103.126.92.13/32,China
