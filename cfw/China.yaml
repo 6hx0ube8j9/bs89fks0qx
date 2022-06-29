@@ -831,7 +831,6 @@ payload:
   - DOMAIN-SUFFIX,baotoo.com
   - DOMAIN-SUFFIX,baozengzhang.com
   - DOMAIN-SUFFIX,bapiw.com
-  - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,bazai.com
   - DOMAIN-SUFFIX,bbf.org.cn
   - DOMAIN-SUFFIX,bbm0v.cn
@@ -927,7 +926,6 @@ payload:
   - DOMAIN-SUFFIX,bkiije.com
   - DOMAIN-SUFFIX,blackberry.com
   - DOMAIN-SUFFIX,blackdragon.com
-  - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,blovestorm.com
   - DOMAIN-SUFFIX,blurdev.com
   - DOMAIN-SUFFIX,bnet.cn
@@ -5198,6 +5196,16 @@ payload:
   - DOMAIN-SUFFIX,zwtianshangm.com
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zygbdszt.net.cn
+  - DOMAIN-SUFFIX,arkose.com.cn
+  - DOMAIN-SUFFIX,battlenet.com.cn
+  - DOMAIN-SUFFIX,blizzard.cn
+  - DOMAIN-SUFFIX,blizzardgames.cn
+  - DOMAIN-SUFFIX,blz.nosdn.127.net 
+  - DOMAIN-SUFFIX,blzstatic.cn
+  - DOMAIN-SUFFIX,bnet.163.com
+  - DOMAIN-SUFFIX,cnc.blzstatic.cn
+  - DOMAIN-SUFFIX,nosdn.127.net
+  - DOMAIN-SUFFIX,wowchina.com
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.13/32,no-resolve
