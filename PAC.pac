@@ -5731,6 +5731,10 @@ var RULES = [
 	".caict.ac.cn",
 	".alipay.cn",
 	".wallstcn.com",
+	".189smarthome.com",
+	".ott4china.com",
+	".iskcd.com",
+	".byteacctimg.com",
                    
     ]
 ];
