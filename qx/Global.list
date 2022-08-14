@@ -2279,6 +2279,7 @@ HOST-SUFFIX,zorin.com,Global
 HOST-SUFFIX,zorincdn.com,Global
 HOST-SUFFIX,zorinos.com,Global
 HOST-SUFFIX,zulipchat.com,Global
+HOST-SUFFIX,proton.me,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
