@@ -1,3 +1,16 @@
+var FindProxyForURL = function(init, profiles) {
+    return function(url, host) {
+        "use strict";
+        var result = init, scheme = url.substr(0, url.indexOf(":"));
+        do {
+            result = profiles[result];
+            if (typeof result === "function") result = result(url, host, scheme);
+        } while (typeof result !== "string" || result.charCodeAt(0) === 43);
+        return result;
+    };
+}("+PAC", {
+    "+PAC": function() {
+        ;
 var IP_ADDRESS = '127.0.0.1:7890'; // Need to change to a real address!!
 
 var PROXY_TYPE = 'PROXY'; // or 'SOCKS5' or 'PROXY'
@@ -5735,6 +5748,9 @@ var RULES = [
 	".ott4china.com",
 	".iskcd.com",
 	".byteacctimg.com",
+	".sseinfo.com",
+	".alibabachengdun.com",
+	".goofish.com",
                    
     ]
 ];
@@ -5780,3 +5796,8 @@ function FindProxyForURL(url, host) {
     }
 
 }
+
+/* End of PAC */;
+        return FindProxyForURL;
+    }.call(this)
+});
