@@ -5212,9 +5212,9 @@ payload:
   - DOMAIN-SUFFIX,ott4china.com
   - DOMAIN-SUFFIX,iskcd.com
   - DOMAIN-SUFFIX,byteacctimg.com
-  - DOMAIN-SUFFIX,sseinfo.com, direct
-  - DOMAIN-SUFFIX,alibabachengdun.com, direct
-  - DOMAIN-SUFFIX,goofish.com, direct
+  - DOMAIN-SUFFIX,sseinfo.com
+  - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,goofish.com
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.13/32,no-resolve
