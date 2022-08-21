@@ -26,7 +26,6 @@ payload:
   - DOMAIN-KEYWORD,qcvod
   - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-SUFFIX,*music.qq.com
   - DOMAIN-SUFFIX,001wifi.com
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,01058511989.com
@@ -5213,6 +5212,9 @@ payload:
   - DOMAIN-SUFFIX,ott4china.com
   - DOMAIN-SUFFIX,iskcd.com
   - DOMAIN-SUFFIX,byteacctimg.com
+  - DOMAIN-SUFFIX,sseinfo.com, direct
+  - DOMAIN-SUFFIX,alibabachengdun.com, direct
+  - DOMAIN-SUFFIX,goofish.com, direct
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.13/32,no-resolve
