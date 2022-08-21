@@ -25,7 +25,6 @@ HOST-KEYWORD,netease,China
 HOST-KEYWORD,qcvod,China
 HOST-KEYWORD,qiyi,China
 HOST-KEYWORD,weibo,China
-HOST-SUFFIX,*music.qq.com,China
 HOST-SUFFIX,001wifi.com,China
 HOST-SUFFIX,00cdn.com,China
 HOST-SUFFIX,01058511989.com,China
@@ -5212,6 +5211,9 @@ HOST-SUFFIX,189smarthome.com,China
 HOST-SUFFIX,ott4china.com,China
 HOST-SUFFIX,iskcd.com,China
 HOST-SUFFIX,byteacctimg.com,China
+HOST-SUFFIX,sseinfo.com,China
+HOST-SUFFIX,alibabachengdun.com,China
+HOST-SUFFIX,goofish.com,China
 IP-CIDR,101.224.0.0/13,China
 IP-CIDR,101.71.154.241/32,China
 IP-CIDR,103.126.92.13/32,China
