@@ -2290,6 +2290,9 @@ HOST-SUFFIX,skyearth2.xyz,Global
 HOST-SUFFIX,njavtv.com,Global
 HOST-SUFFIX,strpst.com,Global
 HOST-SUFFIX,nbpicture.xyz,Global
+HOST-SUFFIX,redacted.ch,Global
+HOST-SUFFIX,recaptcha.net,Global
+HOST-SUFFIX,hcaptcha.com,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
