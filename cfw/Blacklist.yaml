@@ -1,0 +1,47 @@
+payload:
+  #自定义阻止
+  - DOMAIN-SUFFIX,pub.network
+  - DOMAIN-SUFFIX,omappapi.com
+  - DOMAIN,skype.gmw.cn
+  - DOMAIN-SUFFIX,shiguangpu.com
+  - DOMAIN-SUFFIX,firefoxchina.cn
+  - DOMAIN-SUFFIX,firefox.com.cn
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
+  - DOMAIN,s2.ax1x.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN,ad.10010.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,revenuecat.com
+  #阻止运营商一键登录
+  #移动
+  - DOMAIN,config.cmpassport.com
+  - DOMAIN,www.cmpassport.com
+  - DOMAIN,ecm.cmpassport.com
+  - DOMAIN,config001.cmpassport.com
+  - DOMAIN,log001.cmpassport.com
+  #电信
+  - DOMAIN-SUFFIX,id6.me
+  - DOMAIN,mta.e.189.cn
+  - DOMAIN,open.e.189.cn
+  #联通
+  - DOMAIN,opencloud.wostore.cn
+  - DOMAIN-SUFFIX,wostore.cn
+  #nPlayer联网阻止
+  - DOMAIN,app-measurement.com
+  - DOMAIN,play.googleapis.com
+  - DOMAIN,clients3.google.com
+  - DOMAIN,settings.crashlytics.com
+  #阻止iZip联网
+  - DOMAIN-SUFFIX,comcsoft.com
+  - DOMAIN,appservices.comcsoft.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN,settings.crashlytics.com
+  #阻止Documents联网
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,pdfexpert.com
+  - DOMAIN-SUFFIX,letsencrypt.org
+  - DOMAIN,gate.hockeyapp.net
+
+
+ 
