@@ -1,0 +1,18 @@
+#Ninja Kiwi
+HOST,analytics.ninjakiwi.com,Games
+HOST,api.ninjakiwi.com,Games
+HOST-SUFFIX,ninjakiwi.com,Games
+HOST-SUFFIX,unity3d.com,Games
+HOST-SUFFIX,nkstatic.com,Games
+#King
+HOST-SUFFIX,king.com,Games
+#Brawl Stars
+HOST,inbox.brawlstars.com,Games
+HOST,game.brawlstarsgame.com,Games
+HOST,1681.engine.mobileapptracking.com,Games
+HOST,ingame.id.supercell.com,Games
+HOST,cdn.supercell.com,Games
+HOST,supercell.helpshift.com,Games
+HOST-SUFFIX,brawlstars.com,Games
+HOST-SUFFIX,brawlstarsgame.com,Games
+HOST-SUFFIX,supercell.com,Games  
