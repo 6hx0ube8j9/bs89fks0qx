@@ -1,0 +1,19 @@
+payload:
+  #Ninja Kiwi
+  - DOMAIN,analytics.ninjakiwi.com
+  - DOMAIN,api.ninjakiwi.com
+  - DOMAIN-SUFFIX,ninjakiwi.com
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,nkstatic.com
+  #King
+  - DOMAIN-SUFFIX,king.com
+  #Brawl Stars
+  - DOMAIN,inbox.brawlstars.com
+  - DOMAIN,game.brawlstarsgame.com
+  - DOMAIN,1681.engine.mobileapptracking.com
+  - DOMAIN,ingame.id.supercell.com
+  - DOMAIN,cdn.supercell.com
+  - DOMAIN,supercell.helpshift.com
+  - DOMAIN-SUFFIX,brawlstars.com
+  - DOMAIN-SUFFIX,brawlstarsgame.com
+  - DOMAIN-SUFFIX,supercell.com  
