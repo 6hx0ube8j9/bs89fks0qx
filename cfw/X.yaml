@@ -1,38 +1,46 @@
 payload:
-  # X (Twitter) 相关域名
-  - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,cms-twdigitalassets.com
-  - DOMAIN-SUFFIX,periscope.tv
-  - DOMAIN-SUFFIX,pscp.tv
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,tellapart.com
-  - DOMAIN-SUFFIX,tweetdeck.com
-  - DOMAIN-SUFFIX,twimg.co
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twimg.org
-  - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,twitter.biz
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twitter.jp
-  - DOMAIN-SUFFIX,twittercommunity.com
-  - DOMAIN-SUFFIX,twitterflightschool.com
-  - DOMAIN-SUFFIX,twitterinc.com
-  - DOMAIN-SUFFIX,twitteroauth.com
-  - DOMAIN-SUFFIX,twitterstat.us
-  - DOMAIN-SUFFIX,twtrdns.net
-  - DOMAIN-SUFFIX,twttr.com
-  - DOMAIN-SUFFIX,twttr.net
-  - DOMAIN-SUFFIX,twvid.com
-  - DOMAIN-SUFFIX,vine.co
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-KEYWORD,twitter
-  # Grok 相关域名
-  - DOMAIN-SUFFIX,grok.x.ai
-  - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,api.x.ai
-  # X (Twitter) 核心 IP 范围（去除 CDN 相关）
-  - IP-CIDR,192.133.76.0/22
-  - IP-CIDR,199.16.156.0/22
-  - IP-CIDR,199.59.148.0/22
-  - IP-CIDR,199.96.56.0/21
-  - IP-CIDR,202.160.128.0/22
+  # X (Twitter) 相关域名（包含你提供的全部）
+  - DOMAIN-SUFFIX,ads-twitter.com,Proxy
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com,Proxy
+  - DOMAIN-SUFFIX,periscope.tv,Proxy
+  - DOMAIN-SUFFIX,pscp.tv,Proxy
+  - DOMAIN-SUFFIX,t.co,Proxy
+  - DOMAIN-SUFFIX,tellapart.com,Proxy
+  - DOMAIN-SUFFIX,tweetdeck.com,Proxy
+  - DOMAIN-SUFFIX,api.twitter.com,Proxy
+  - DOMAIN-SUFFIX,ads.twitter.com,Proxy
+  - DOMAIN-SUFFIX,video.twimg.com,Proxy
+  - DOMAIN-SUFFIX,pbs.twimg.com,Proxy
+  - DOMAIN-SUFFIX,abs.twimg.com,Proxy
+  - DOMAIN-SUFFIX,twimg.co,Proxy
+  - DOMAIN-SUFFIX,twimg.com,Proxy
+  - DOMAIN-SUFFIX,twimg.org,Proxy
+  - DOMAIN-SUFFIX,twitpic.com,Proxy
+  - DOMAIN-SUFFIX,twitter.biz,Proxy
+  - DOMAIN-SUFFIX,twitter.com,Proxy
+  - DOMAIN-SUFFIX,twitter.jp,Proxy
+  - DOMAIN-SUFFIX,twittercommunity.com,Proxy
+  - DOMAIN-SUFFIX,twitterflightschool.com,Proxy
+  - DOMAIN-SUFFIX,twitterinc.com,Proxy
+  - DOMAIN-SUFFIX,twitteroauth.com,Proxy
+  - DOMAIN-SUFFIX,twitterstat.us,Proxy
+  - DOMAIN-SUFFIX,twtrdns.net,Proxy
+  - DOMAIN-SUFFIX,twttr.com,Proxy
+  - DOMAIN-SUFFIX,twttr.net,Proxy
+  - DOMAIN-SUFFIX,twvid.com,Proxy
+  - DOMAIN-SUFFIX,vine.co,Proxy
+  - DOMAIN-SUFFIX,x.com,Proxy
+  - DOMAIN-KEYWORD,twitter,Proxy
+  # Grok 相关域名（包含所有已知域名）
+  - DOMAIN-SUFFIX,grok.com,Proxy
+  - DOMAIN-SUFFIX,grok.x.ai,Proxy
+  - DOMAIN-SUFFIX,x.ai,Proxy
+  - DOMAIN-SUFFIX,api.x.ai,Proxy
+  # X (Twitter) 核心 IP 范围
+  - IP-CIDR,192.133.76.0/22,Proxy
+  - IP-CIDR,199.16.156.0/22,Proxy
+  - IP-CIDR,199.59.148.0/22,Proxy
+  - IP-CIDR,199.96.56.0/21,Proxy
+  - IP-CIDR,202.160.128.0/22,Proxy
+  - IP-CIDR,209.237.192.0/19,Proxy
+  - IP-CIDR,69.195.160.0/19,Proxy
