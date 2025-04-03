@@ -4,6 +4,23 @@ HOST,api.ninjakiwi.com,Games
 HOST-SUFFIX,ninjakiwi.com,Games
 HOST-SUFFIX,unity3d.com,Games
 HOST-SUFFIX,nkstatic.com,Games
+IP-CIDR,5.75.0.0/16,Games
+IP-CIDR,5.78.0.0/16,Games
+IP-CIDR,5.161.0.0/16,Games
+IP-CIDR,5.223.0.0/16,Games
+IP-CIDR,45.76.0.0/16,Games
+IP-CIDR,49.12.0.0/16,Games
+IP-CIDR,65.20.0.0/16,Games
+IP-CIDR,70.34.0.0/16,Games
+IP-CIDR,78.47.0.0/16,Games
+IP-CIDR,78.141.0.0/16,Games
+IP-CIDR,95.179.0.0/16,Games
+IP-CIDR,139.180.0.0/16,Games
+IP-CIDR,142.132.0.0/16,Games
+IP-CIDR,149.28.0.0/16,Games
+IP-CIDR,167.235.0.0/16,Games
+IP-CIDR,199.247.0.0/16,Games
+IP-CIDR,216.238.0.0/16,Games
 #King
 HOST-SUFFIX,king.com,Games
 #Brawl Stars
