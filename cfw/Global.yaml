@@ -2294,6 +2294,17 @@ payload:
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,megawrzuta.pl
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,unihertz.com
+  - DOMAIN-SUFFIX,tchncs.de
+  - DOMAIN-SUFFIX,vector.im
+  - DOMAIN-SUFFIX,element.io
+  - DOMAIN-SUFFIX,matrix.org
+  - DOMAIN-SUFFIX,veridianpulse.net
+  - DOMAIN-SUFFIX,AccuWeather.com
+  - DOMAIN-SUFFIX,kaiostech.com
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,103.2.28.0/22,no-resolve
   - IP-CIDR,103.53.48.0/23,no-resolve
