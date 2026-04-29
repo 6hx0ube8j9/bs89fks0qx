@@ -2,6 +2,7 @@
 HOST-SUFFIX,pub.network,REJECT
 HOST-SUFFIX,omappapi.com,REJECT
 HOST,skype.gmw.cn,REJECT
+HOST,ssp.kaiads.com,REJECT
 HOST-SUFFIX,shiguangpu.com,REJECT
 HOST-SUFFIX,firefoxchina.cn,REJECT
 HOST-SUFFIX,firefox.com.cn,REJECT
