@@ -2293,6 +2293,17 @@ HOST-SUFFIX,nbpicture.xyz,Global
 HOST-SUFFIX,redacted.ch,Global
 HOST-SUFFIX,recaptcha.net,Global
 HOST-SUFFIX,hcaptcha.com,Global
+HOST-SUFFIX,megawrzuta.pl,Global
+HOST-SUFFIX,ghproxy.com,Global
+HOST-SUFFIX,mullvad.net,Global
+HOST-SUFFIX,unihertz.com,Global
+HOST-SUFFIX,tchncs.de,Global
+HOST-SUFFIX,vector.im,Global
+HOST-SUFFIX,element.io,Global
+HOST-SUFFIX,matrix.org,Global
+HOST-SUFFIX,veridianpulse.net,Global
+HOST-SUFFIX,AccuWeather.com,Global
+HOST-SUFFIX,kaiostech.com,Global
 IP-CIDR,100.43.64.0/19,Global
 IP-CIDR,103.2.28.0/22,Global
 IP-CIDR,103.53.48.0/23,Global
